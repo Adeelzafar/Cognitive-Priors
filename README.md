@@ -111,19 +111,4 @@ training objective itself).
 - The BioScope fallback section classifier's own accuracy has not yet been
   separately evaluated.
 
-## Citation
 
-If you use this code, please cite:
-
-```bibtex
-@inproceedings{zafar2026cognitivepriors,
-  title     = {Cognitive Priors Beyond Flat Labels: Evidential Uncertainty in Biomedical NLP},
-  author    = {Zafar, Adeel},
-  year      = {2026},
-  note      = {Preprint}
-}
-```
-
-## License
-
-[Add license here, e.g. MIT]
